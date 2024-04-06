@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(10,3): warning C4047: funkce: LPSECURITY_ATTRIBUTES se liší od: int úrovněmi indirekce.
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(10,3): warning C4024: CreateFileW: Formální a skutečný parametr mají odlišné typy: 4.
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(11,3): warning C4047: funkce: DWORD se liší od: void * úrovněmi indirekce.
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(11,3): warning C4024: CreateFileW: Formální a skutečný parametr mají odlišné typy: 5.
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(14,3): warning C4020: CreateFileW: moc velký počet skutečných parametrů
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(22,43): warning C4267: funkce: Převod z: size_t na: DWORD, může dojít ke ztrátě dat.
+  OS1.8.vcxproj -> C:\Users\ronge\source\repos\OS1.8\x64\Debug\OS1.8.exe
